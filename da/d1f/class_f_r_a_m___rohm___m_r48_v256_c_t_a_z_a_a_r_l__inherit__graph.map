@@ -1,0 +1,4 @@
+<map id="FRAM_Rohm_MR48V256CTAZAARL" name="FRAM_Rohm_MR48V256CTAZAARL">
+<area shape="rect" id="node1" title="This class sets the parameters for an an FRAM Rohm MR48V256CTAZAARL memory chip. See link Memory Data..." alt="" coords="5,80,256,107"/>
+<area shape="rect" id="node2" href="$d3/d45/class_memory_module.html" title="This abstract class provides all the required functions to be implemented by a new memory module." alt="" coords="69,5,193,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MemoryControllerParallel::Read16BitWord" name="MemoryControllerParallel::Read16BitWord">
+<area shape="rect" id="node1" title="This function reads an 16 bit value from a passed address. Currently only a STM32F429DISC1 board is s..." alt="" coords="5,5,193,47"/>
+<area shape="rect" id="node2" href="$da/d9b/class_memory_controller.html#ae9619641d6250a852dfc59ec48df134e" title=" " alt="" coords="241,5,444,47"/>
+</map>

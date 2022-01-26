@@ -1,0 +1,8 @@
+<map id="SPIProperties::AvailableSPIProperties" name="SPIProperties::AvailableSPIProperties">
+<area shape="rect" id="node1" title="This struct stores the properties of an SPI interface. It stores the name to initialize the interface..." alt="" coords="71,243,247,284"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,13,44,39"/>
+<area shape="rect" id="node5" href="$dc/da8/class_g_p_i_o_pin.html" title=" " alt="" coords="122,109,197,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="245,109,332,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="227,5,366,47"/>
+<area shape="rect" id="node6" title=" " alt="" coords="129,13,203,39"/>
+</map>

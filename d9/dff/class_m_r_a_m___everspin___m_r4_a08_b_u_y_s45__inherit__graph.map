@@ -1,0 +1,4 @@
+<map id="MRAM_Everspin_MR4A08BUYS45" name="MRAM_Everspin_MR4A08BUYS45">
+<area shape="rect" id="node1" title="This class sets the parameters for an an MRAM Everspin MR4A08BUYS45 memory chip. See link Memory Data..." alt="" coords="5,80,244,107"/>
+<area shape="rect" id="node2" href="$d3/d45/class_memory_module.html" title="This abstract class provides all the required functions to be implemented by a new memory module." alt="" coords="63,5,187,32"/>
+</map>

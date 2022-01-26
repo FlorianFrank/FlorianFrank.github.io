@@ -1,0 +1,5 @@
+<map id="TimeMeasurement::GetClockCycles" name="TimeMeasurement::GetClockCycles">
+<area shape="rect" id="node1" title="Resets the counter used to count the clock cycles." alt="" coords="5,23,217,65"/>
+<area shape="rect" id="node2" href="$d0/d10/class_time_measurement.html#a396dab9cdb39a9a1cf9ad2f2e2dbe14c" title="Returns the current timer value." alt="" coords="272,5,487,32"/>
+<area shape="rect" id="node3" href="$d0/d10/class_time_measurement.html#a21436ed1f89632f8576767c7c0b8a352" title="Resets the counter used to count the clock cycles." alt="" coords="265,56,493,83"/>
+</map>

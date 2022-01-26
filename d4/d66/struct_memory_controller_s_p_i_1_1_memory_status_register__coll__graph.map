@@ -1,0 +1,4 @@
+<map id="MemoryControllerSPI::MemoryStatusRegister" name="MemoryControllerSPI::MemoryStatusRegister">
+<area shape="rect" id="node1" title="This struct defines each register bit of the registers of the Adesto and Fujitsu ReRAM chip." alt="" coords="5,168,184,209"/>
+<area shape="rect" id="node2" title=" " alt="" coords="61,5,128,32"/>
+</map>

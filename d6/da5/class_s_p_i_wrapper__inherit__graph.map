@@ -1,0 +1,4 @@
+<map id="SPIWrapper" name="SPIWrapper">
+<area shape="rect" id="node1" title="This class serves as wrapper for SPI communication. Currently this wrapper only supports an STM32F429..." alt="" coords="24,80,121,107"/>
+<area shape="rect" id="node2" href="$d0/d1d/class_interface_wrapper.html" title="This is an abstract class which defines the functions that must be defined by each hardware interface..." alt="" coords="5,5,140,32"/>
+</map>

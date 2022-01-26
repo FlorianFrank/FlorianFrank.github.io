@@ -1,0 +1,4 @@
+<map id="MemoryControllerParallel::Read8BitWord" name="MemoryControllerParallel::Read8BitWord">
+<area shape="rect" id="node1" title="This function reads an 8 bit value from a passed address. Currently only a STM32F429DISC1 board is su..." alt="" coords="108,5,296,47"/>
+<area shape="rect" id="node2" href="$d5/d12/_main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="The application entry point." alt="" coords="5,13,60,39"/>
+</map>

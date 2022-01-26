@@ -1,0 +1,7 @@
+<map id="MemoryControllerSPI::ReadStatusRegister" name="MemoryControllerSPI::ReadStatusRegister">
+<area shape="rect" id="node1" title="This function reads the status register from the memory chip." alt="" coords="472,39,632,80"/>
+<area shape="rect" id="node2" href="$dd/da3/class_memory_controller_s_p_i.html#a463f4a8677085ee91bf3d3931db1ce43" title="This method can be executed after a write operation. The write operation sets the write in progress b..." alt="" coords="213,5,424,47"/>
+<area shape="rect" id="node3" href="$dd/da3/class_memory_controller_s_p_i.html#ab0f6c8c5bcc2008273c5d091a12ad692" title="This function sets the write enable latch register." alt="" coords="236,71,401,112"/>
+<area shape="rect" id="node4" href="$dd/da3/class_memory_controller_s_p_i.html#a2120ff0b7867d6c3920b34be066e18be" title="Reads a single 8 bit value to an address." alt="" coords="5,37,165,79"/>
+<area shape="rect" id="node5" href="$dd/da3/class_memory_controller_s_p_i.html#a25300356ec5ef668228eb273476ed21d" title="Writes a single 8 bit valueToWrite to an address." alt="" coords="5,103,165,144"/>
+</map>

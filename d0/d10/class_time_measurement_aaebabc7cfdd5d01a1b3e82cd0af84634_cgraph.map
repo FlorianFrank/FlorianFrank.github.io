@@ -1,0 +1,5 @@
+<map id="TimeMeasurement::GetElapsedTimeInNS" name="TimeMeasurement::GetElapsedTimeInNS">
+<area shape="rect" id="node1" title="Returns the elapsed time since calling StartTimer() in nanoseconds." alt="" coords="5,27,232,69"/>
+<area shape="rect" id="node2" href="$d0/d10/class_time_measurement.html#a396dab9cdb39a9a1cf9ad2f2e2dbe14c" title="Returns the current timer value." alt="" coords="282,5,497,32"/>
+<area shape="rect" id="node3" href="$d0/d10/class_time_measurement.html#a974ea14fe708d125b9fb500dbebe2671" title="Transforms the clock counts based on the frequency to nano seconds." alt="" coords="280,57,499,98"/>
+</map>

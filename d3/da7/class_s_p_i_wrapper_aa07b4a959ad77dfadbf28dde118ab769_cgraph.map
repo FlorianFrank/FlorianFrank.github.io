@@ -1,0 +1,9 @@
+<map id="SPIWrapper::SendData" name="SPIWrapper::SendData">
+<area shape="rect" id="node1" title="Send data on the specified SPI interface. CS must be set manually!" alt="" coords="5,130,173,157"/>
+<area shape="rect" id="node2" href="$d4/df4/class_memory_error_handling.html#a84ad5a72618ea6fb89b883038e921052" title=" " alt="" coords="234,5,423,47"/>
+<area shape="rect" id="node3" href="$d3/da7/class_s_p_i_wrapper.html#a9dcec77390ba645d0b6801346254d520" title="This function reads the Chip Select signal if the the interface is used in slave mode." alt="" coords="225,71,432,98"/>
+<area shape="rect" id="node4" href="$d0/d10/class_time_measurement.html#a22879f32c90f84a0c116b132802d4a34" title="Resets the previous timer by resetting the counter and restarts the measurements by setting the CYCCN..." alt="" coords="221,123,436,164"/>
+<area shape="rect" id="node6" href="$d3/da7/class_s_p_i_wrapper.html#a853627dcc0bb570ec93e4097937cb1b4" title="Resets the Chip Select Pin. On STM32 on pin PF6." alt="" coords="223,189,434,215"/>
+<area shape="rect" id="node7" href="$d3/da7/class_s_p_i_wrapper.html#ab6e7dbe19f2e1c3625a04cb65efc201c" title="Sets the Chip Select Pin. On STM32 on pin PF6." alt="" coords="231,239,426,266"/>
+<area shape="rect" id="node5" href="$d0/d10/class_time_measurement.html#a21436ed1f89632f8576767c7c0b8a352" title="Resets the counter used to count the clock cycles." alt="" coords="484,130,712,157"/>
+</map>

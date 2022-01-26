@@ -1,0 +1,4 @@
+<map id="FRAM_Fujitsu_MB85R1001ANC_GE1" name="FRAM_Fujitsu_MB85R1001ANC_GE1">
+<area shape="rect" id="node1" title="This class sets the parameters for an an FRAM Fujitsu MB85R1001ANC GE1 memory chip...." alt="" coords="5,80,261,107"/>
+<area shape="rect" id="node2" href="$d3/d45/class_memory_module.html" title="This abstract class provides all the required functions to be implemented by a new memory module." alt="" coords="71,5,195,32"/>
+</map>

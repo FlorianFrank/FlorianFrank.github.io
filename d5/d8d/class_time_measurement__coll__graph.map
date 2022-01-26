@@ -1,0 +1,4 @@
+<map id="TimeMeasurement" name="TimeMeasurement">
+<area shape="rect" id="node1" title="This class provides functions to measure the elapsed time using Cortex M4 registers." alt="" coords="5,109,151,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,151,32"/>
+</map>

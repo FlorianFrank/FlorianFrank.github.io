@@ -1,0 +1,6 @@
+<map id="InterfaceWrapper" name="InterfaceWrapper">
+<area shape="rect" id="node1" title="This is an abstract class which defines the functions that must be defined by each hardware interface..." alt="" coords="116,5,251,32"/>
+<area shape="rect" id="node2" href="$d3/da7/class_s_p_i_wrapper.html" title="This class serves as wrapper for SPI communication. Currently this wrapper only supports an STM32F429..." alt="" coords="5,80,103,107"/>
+<area shape="rect" id="node3" href="$d9/de9/class_u_a_r_t_wrapper.html" title="This class wrapps the device specific UART implementation. It implements the functions to initialize,..." alt="" coords="127,80,239,107"/>
+<area shape="rect" id="node4" href="$d1/d12/class_u_s_b_wrapper.html" title=" " alt="" coords="263,80,367,107"/>
+</map>

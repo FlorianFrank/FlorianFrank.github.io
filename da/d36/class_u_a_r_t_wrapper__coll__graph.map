@@ -1,0 +1,13 @@
+<map id="UARTWrapper" name="UARTWrapper">
+<area shape="rect" id="node1" title="This class wrapps the device specific UART implementation. It implements the functions to initialize,..." alt="" coords="363,199,475,225"/>
+<area shape="rect" id="node2" href="$d0/d1d/class_interface_wrapper.html" title="This is an abstract class which defines the functions that must be defined by each hardware interface..." alt="" coords="154,109,289,136"/>
+<area shape="rect" id="node3" href="$d4/d68/struct_u_a_r_t_properties_1_1_u_a_r_t_handle.html" title="This struct contains all properties of an UART interface. It is internally stored in the UARTWrapper ..." alt="" coords="313,109,525,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="149,5,200,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="292,5,351,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="375,5,473,32"/>
+<area shape="rect" id="node8" title=" " alt="" coords="511,5,569,32"/>
+<area shape="rect" id="node9" title=" " alt="" coords="594,5,713,32"/>
+<area shape="rect" id="node10" title=" " alt="" coords="612,109,895,136"/>
+<area shape="rect" id="node11" title=" " alt="" coords="737,5,919,32"/>
+</map>
