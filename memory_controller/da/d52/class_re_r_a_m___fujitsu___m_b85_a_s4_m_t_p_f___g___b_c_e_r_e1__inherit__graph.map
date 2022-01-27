@@ -1,0 +1,4 @@
+<map id="ReRAM_Fujitsu_MB85AS4MTPF_G_BCERE1" name="ReRAM_Fujitsu_MB85AS4MTPF_G_BCERE1">
+<area shape="rect" id="node1" title="This class sets the parameters for an an RERAM Fujitsu MB85AS4MTPF memory chip. See link Memory Datas..." alt="" coords="5,80,229,121"/>
+<area shape="rect" id="node2" href="$d3/d45/class_memory_module.html" title="This abstract class provides all the required functions to be implemented by a new memory module." alt="" coords="55,5,179,32"/>
+</map>

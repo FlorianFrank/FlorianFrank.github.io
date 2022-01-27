@@ -1,0 +1,4 @@
+<map id="MemoryControllerSPI" name="MemoryControllerSPI">
+<area shape="rect" id="node1" title="This class implements the communication with SPI based memory controllers. Currently the Fujitsu ReRA..." alt="" coords="5,80,165,107"/>
+<area shape="rect" id="node2" href="$da/d9b/class_memory_controller.html" title=" " alt="" coords="15,5,155,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="TimeMeasurement::TransformClockFrequencyToNs" name="TimeMeasurement::TransformClockFrequencyToNs">
+<area shape="rect" id="node1" title="Transforms the clock counts based on the frequency to nano seconds." alt="" coords="280,5,499,47"/>
+<area shape="rect" id="node2" href="$d0/d10/class_time_measurement.html#aaebabc7cfdd5d01a1b3e82cd0af84634" title="Returns the elapsed time since calling StartTimer() in nanoseconds." alt="" coords="5,5,232,47"/>
+</map>

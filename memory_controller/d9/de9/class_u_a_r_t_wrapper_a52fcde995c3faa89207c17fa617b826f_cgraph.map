@@ -1,0 +1,4 @@
+<map id="UARTWrapper::Initialize" name="UARTWrapper::Initialize">
+<area shape="rect" id="node1" title="This function initializes the device specific properties like initializing the GPIO pins,..." alt="" coords="5,13,181,39"/>
+<area shape="rect" id="node2" href="$d9/de9/class_u_a_r_t_wrapper.html#a41f4cfe6ddd9037e6aaad003bb5f3808" title="Dummy implementation to allow compilation when no board is defined." alt="" coords="229,5,485,47"/>
+</map>

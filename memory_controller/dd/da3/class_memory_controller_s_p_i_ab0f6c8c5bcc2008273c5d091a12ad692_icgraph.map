@@ -1,0 +1,5 @@
+<map id="MemoryControllerSPI::SetWriteEnableLatch" name="MemoryControllerSPI::SetWriteEnableLatch">
+<area shape="rect" id="node1" title="This function sets the write enable latch register." alt="" coords="213,39,379,80"/>
+<area shape="rect" id="node2" href="$dd/da3/class_memory_controller_s_p_i.html#a2120ff0b7867d6c3920b34be066e18be" title="Reads a single 8 bit value to an address." alt="" coords="5,5,165,47"/>
+<area shape="rect" id="node3" href="$dd/da3/class_memory_controller_s_p_i.html#a25300356ec5ef668228eb273476ed21d" title="Writes a single 8 bit valueToWrite to an address." alt="" coords="5,71,165,112"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="SPIWrapper" name="SPIWrapper">
+<area shape="rect" id="node1" title="This class serves as wrapper for SPI communication. Currently this wrapper only supports an STM32F429..." alt="" coords="983,191,1080,217"/>
+<area shape="rect" id="node2" href="$d0/d1d/class_interface_wrapper.html" title="This is an abstract class which defines the functions that must be defined by each hardware interface..." alt="" coords="597,115,731,141"/>
+<area shape="rect" id="node3" href="$d7/d33/struct_s_p_i_properties_1_1_s_p_i_handle.html" title="This struct contains all properties of an UART interface. It is internally stored in the UARTWrapper ..." alt="" coords="573,165,755,192"/>
+<area shape="rect" id="node4" title=" " alt="" coords="258,13,297,40"/>
+<area shape="rect" id="node5" title=" " alt="" coords="234,64,321,91"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,57,144,98"/>
+<area shape="rect" id="node7" title=" " alt="" coords="207,115,348,141"/>
+<area shape="rect" id="node8" title=" " alt="" coords="248,165,307,192"/>
+<area shape="rect" id="node9" title=" " alt="" coords="219,216,335,243"/>
+<area shape="rect" id="node10" title=" " alt="" coords="229,267,326,293"/>
+<area shape="rect" id="node11" href="$d2/ded/class_device_wrapper.html" title="This class serves as an abstract class providing mandatory interfaces for supported devices...." alt="" coords="603,216,725,243"/>
+<area shape="rect" id="node12" title=" " alt="" coords="531,292,797,319"/>
+<area shape="rect" id="node13" title=" " alt="" coords="193,317,361,344"/>
+</map>

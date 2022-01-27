@@ -1,0 +1,4 @@
+<map id="SRAM_Cypress_CY7C1041CV33" name="SRAM_Cypress_CY7C1041CV33">
+<area shape="rect" id="node1" title="This class sets the parameters for an an SRAM Cypress CY7C1041CV33 memory chip. See link Memory Datas..." alt="" coords="5,80,232,107"/>
+<area shape="rect" id="node2" href="$d3/d45/class_memory_module.html" title="This abstract class provides all the required functions to be implemented by a new memory module." alt="" coords="57,5,181,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="FRAM_Cypress_FM22L16_55_TG" name="FRAM_Cypress_FM22L16_55_TG">
+<area shape="rect" id="node1" title="This class sets the parameters for an an FRAM Cypress FM22L16 55 TG memory chip. See link Memory Data..." alt="" coords="5,80,191,121"/>
+<area shape="rect" id="node2" href="$d3/d45/class_memory_module.html" title="This abstract class provides all the required functions to be implemented by a new memory module." alt="" coords="36,5,160,32"/>
+</map>

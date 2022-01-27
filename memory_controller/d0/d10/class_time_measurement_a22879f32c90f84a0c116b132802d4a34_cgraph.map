@@ -1,0 +1,4 @@
+<map id="TimeMeasurement::ResetAndStartTimer" name="TimeMeasurement::ResetAndStartTimer">
+<area shape="rect" id="node1" title="Resets the previous timer by resetting the counter and restarts the measurements by setting the CYCCN..." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$d0/d10/class_time_measurement.html#a21436ed1f89632f8576767c7c0b8a352" title="Resets the counter used to count the clock cycles." alt="" coords="268,13,496,39"/>
+</map>

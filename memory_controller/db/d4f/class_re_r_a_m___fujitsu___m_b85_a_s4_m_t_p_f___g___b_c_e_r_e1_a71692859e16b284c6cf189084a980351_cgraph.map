@@ -1,0 +1,4 @@
+<map id="ReRAM_Fujitsu_MB85AS4MTPF_G_BCERE1::CreateWriteMessage" name="ReRAM_Fujitsu_MB85AS4MTPF_G_BCERE1::CreateWriteMessage">
+<area shape="rect" id="node1" title="Creates the byte buffer containing the command to write from an Fujitsu MB85AS4M ReRAM chip...." alt="" coords="5,5,247,47"/>
+<area shape="rect" id="node2" href="$da/d9b/class_memory_controller.html#ae9619641d6250a852dfc59ec48df134e" title=" " alt="" coords="295,5,497,47"/>
+</map>

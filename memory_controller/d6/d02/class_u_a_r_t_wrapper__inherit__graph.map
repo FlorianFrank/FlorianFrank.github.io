@@ -1,0 +1,4 @@
+<map id="UARTWrapper" name="UARTWrapper">
+<area shape="rect" id="node1" title="This class wrapps the device specific UART implementation. It implements the functions to initialize,..." alt="" coords="17,80,129,107"/>
+<area shape="rect" id="node2" href="$d0/d1d/class_interface_wrapper.html" title="This is an abstract class which defines the functions that must be defined by each hardware interface..." alt="" coords="5,5,140,32"/>
+</map>

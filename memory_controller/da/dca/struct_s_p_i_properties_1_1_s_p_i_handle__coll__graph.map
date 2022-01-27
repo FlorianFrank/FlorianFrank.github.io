@@ -1,0 +1,10 @@
+<map id="SPIProperties::SPIHandle" name="SPIProperties::SPIHandle">
+<area shape="rect" id="node1" title="This struct contains all properties of an UART interface. It is internally stored in the UARTWrapper ..." alt="" coords="264,185,447,212"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,96,44,123"/>
+<area shape="rect" id="node3" title=" " alt="" coords="103,96,189,123"/>
+<area shape="rect" id="node4" title=" " alt="" coords="77,5,215,47"/>
+<area shape="rect" id="node5" title=" " alt="" coords="219,96,361,123"/>
+<area shape="rect" id="node6" title=" " alt="" coords="385,96,443,123"/>
+<area shape="rect" id="node7" title=" " alt="" coords="468,96,584,123"/>
+<area shape="rect" id="node8" title=" " alt="" coords="613,96,711,123"/>
+</map>

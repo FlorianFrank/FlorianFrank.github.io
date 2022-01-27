@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d0/d1d/class_interface_wrapper.html" title="This is an abstract class which defines the functions that must be defined by each hardware interface..." alt="" coords="5,56,140,83"/>
+<area shape="rect" id="node2" href="$d3/da7/class_s_p_i_wrapper.html" title="This class serves as wrapper for SPI communication. Currently this wrapper only supports an STM32F429..." alt="" coords="195,5,293,32"/>
+<area shape="rect" id="node3" href="$d9/de9/class_u_a_r_t_wrapper.html" title="This class wrapps the device specific UART implementation. It implements the functions to initialize,..." alt="" coords="188,56,300,83"/>
+<area shape="rect" id="node4" href="$d1/d12/class_u_s_b_wrapper.html" title=" " alt="" coords="192,107,296,133"/>
+</map>

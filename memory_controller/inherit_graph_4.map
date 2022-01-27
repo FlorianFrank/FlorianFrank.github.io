@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$da/d9b/class_memory_controller.html" title=" " alt="" coords="5,31,145,57"/>
+<area shape="rect" id="node2" href="$df/dcd/class_memory_controller_parallel.html" title="This class is used to read and write to memory modules with a parallel connection...." alt="" coords="193,5,381,32"/>
+<area shape="rect" id="node3" href="$dd/da3/class_memory_controller_s_p_i.html" title="This class implements the communication with SPI based memory controllers. Currently the Fujitsu ReRA..." alt="" coords="207,56,367,83"/>
+</map>

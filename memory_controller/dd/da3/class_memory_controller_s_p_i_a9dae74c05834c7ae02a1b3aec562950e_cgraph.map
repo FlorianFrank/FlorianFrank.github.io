@@ -1,0 +1,14 @@
+<map id="MemoryControllerSPI::SendSPICommand" name="MemoryControllerSPI::SendSPICommand">
+<area shape="rect" id="node1" title="Helper function which sends a simple command to the SPI interface. These commands only have one byte ..." alt="" coords="5,185,165,227"/>
+<area shape="rect" id="node2" href="$d3/da7/class_s_p_i_wrapper.html#a9dc4d8d40ed961305d3535c3008b3109" title="Receives data on the specified SPI interface. CS must be set manually!" alt="" coords="213,167,401,194"/>
+<area shape="rect" id="node12" href="$d3/da7/class_s_p_i_wrapper.html#aa07b4a959ad77dfadbf28dde118ab769" title="Send data on the specified SPI interface. CS must be set manually!" alt="" coords="223,218,391,245"/>
+<area shape="rect" id="node3" href="$d0/d10/class_time_measurement.html#a8aa2ba0ee6f485fb455c7e3f56e520ae" title=" " alt="" coords="449,35,676,76"/>
+<area shape="rect" id="node6" href="$d4/df4/class_memory_error_handling.html#a84ad5a72618ea6fb89b883038e921052" title=" " alt="" coords="468,320,657,361"/>
+<area shape="rect" id="node7" href="$d3/da7/class_s_p_i_wrapper.html#a9dcec77390ba645d0b6801346254d520" title="This function reads the Chip Select signal if the the interface is used in slave mode." alt="" coords="459,101,666,127"/>
+<area shape="rect" id="node8" href="$d0/d10/class_time_measurement.html#a22879f32c90f84a0c116b132802d4a34" title="Resets the previous timer by resetting the counter and restarts the measurements by setting the CYCCN..." alt="" coords="455,152,670,193"/>
+<area shape="rect" id="node10" href="$d3/da7/class_s_p_i_wrapper.html#a853627dcc0bb570ec93e4097937cb1b4" title="Resets the Chip Select Pin. On STM32 on pin PF6." alt="" coords="457,218,668,245"/>
+<area shape="rect" id="node11" href="$d3/da7/class_s_p_i_wrapper.html#ab6e7dbe19f2e1c3625a04cb65efc201c" title="Sets the Chip Select Pin. On STM32 on pin PF6." alt="" coords="465,269,660,295"/>
+<area shape="rect" id="node4" href="$d0/d10/class_time_measurement.html#a396dab9cdb39a9a1cf9ad2f2e2dbe14c" title="Returns the current timer value." alt="" coords="731,71,945,98"/>
+<area shape="rect" id="node5" href="$d0/d10/class_time_measurement.html#adcf6101f41aff22f0b90c7eb50657d0d" title=" " alt="" coords="729,5,947,47"/>
+<area shape="rect" id="node9" href="$d0/d10/class_time_measurement.html#a21436ed1f89632f8576767c7c0b8a352" title="Resets the counter used to count the clock cycles." alt="" coords="724,159,952,186"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SPIWrapper::ResetWriteProtect" name="SPIWrapper::ResetWriteProtect">
+<area shape="rect" id="node1" title="Resets the Write Protect Pin. On the STM32 on pin PC6." alt="" coords="449,68,672,94"/>
+<area shape="rect" id="node2" href="$dd/da3/class_memory_controller_s_p_i.html#a2120ff0b7867d6c3920b34be066e18be" title="Reads a single 8 bit value to an address." alt="" coords="5,12,165,54"/>
+<area shape="rect" id="node3" href="$dd/da3/class_memory_controller_s_p_i.html#a329514be91d08a482455c6dd62b1d22f" title="This function resets the write enable latch register." alt="" coords="213,27,401,68"/>
+<area shape="rect" id="node4" href="$dd/da3/class_memory_controller_s_p_i.html#ab0f6c8c5bcc2008273c5d091a12ad692" title="This function sets the write enable latch register." alt="" coords="225,92,390,134"/>
+<area shape="rect" id="node5" href="$dd/da3/class_memory_controller_s_p_i.html#a25300356ec5ef668228eb273476ed21d" title="Writes a single 8 bit valueToWrite to an address." alt="" coords="5,122,165,163"/>
+</map>

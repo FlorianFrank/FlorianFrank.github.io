@@ -1,0 +1,38 @@
+var class_memory_controller_s_p_i =
+[
+    [ "MemoryStatusRegister", "d9/d61/struct_memory_controller_s_p_i_1_1_memory_status_register.html", "d9/d61/struct_memory_controller_s_p_i_1_1_memory_status_register" ],
+    [ "SPI_Commands", "dd/da3/class_memory_controller_s_p_i.html#a7eaf2bd837d6633887492f207d81dbe1", [
+      [ "ReRAM_WREN", "dd/da3/class_memory_controller_s_p_i.html#a7eaf2bd837d6633887492f207d81dbe1afbf69458239709c92c32e2ddb2c25fe8", null ],
+      [ "ReRAM_WRDI", "dd/da3/class_memory_controller_s_p_i.html#a7eaf2bd837d6633887492f207d81dbe1ae38110d97c4f8f607017ff5c3fbbb6be", null ],
+      [ "ReRAM_RDSR", "dd/da3/class_memory_controller_s_p_i.html#a7eaf2bd837d6633887492f207d81dbe1aae6fc7493403c681cf83be0027b1c93c", null ],
+      [ "ReRAM_WRSR", "dd/da3/class_memory_controller_s_p_i.html#a7eaf2bd837d6633887492f207d81dbe1a2c32c3d68dac4581007259c8a5a788cb", null ],
+      [ "ReRAM_READ", "dd/da3/class_memory_controller_s_p_i.html#a7eaf2bd837d6633887492f207d81dbe1a6312d8ff5d6c83150ba46f0e736e67ce", null ],
+      [ "ReRAM_WRITE", "dd/da3/class_memory_controller_s_p_i.html#a7eaf2bd837d6633887492f207d81dbe1a605d1b6683dec6d069417d66ea6f41e3", null ],
+      [ "ReRAM_PD", "dd/da3/class_memory_controller_s_p_i.html#a7eaf2bd837d6633887492f207d81dbe1a084b45f3b68757618c3f8f3069dd36c1", null ],
+      [ "ReRAM_UDPD", "dd/da3/class_memory_controller_s_p_i.html#a7eaf2bd837d6633887492f207d81dbe1ab0951bbce9772781e534c8cbec952dd6", null ],
+      [ "ReRAM_RES", "dd/da3/class_memory_controller_s_p_i.html#a7eaf2bd837d6633887492f207d81dbe1a3fd9b6b8d72bd80424cf2b31a4963a74", null ],
+      [ "ReRAM_RDID", "dd/da3/class_memory_controller_s_p_i.html#a7eaf2bd837d6633887492f207d81dbe1af77a9d9414409c384e73251364042d79", null ],
+      [ "ReRAM_SLEEP", "dd/da3/class_memory_controller_s_p_i.html#a7eaf2bd837d6633887492f207d81dbe1acc4a331e152790989ca637f8c4b3b499", null ],
+      [ "ReRam_PowerDown", "dd/da3/class_memory_controller_s_p_i.html#a7eaf2bd837d6633887492f207d81dbe1a978ee17f27544ba4ced5b45ff6a00dc0", null ]
+    ] ],
+    [ "MemoryControllerSPI", "dd/da3/class_memory_controller_s_p_i.html#a7435d03db605a42bf9b9932ad357415b", null ],
+    [ "EraseChip", "dd/da3/class_memory_controller_s_p_i.html#ad181b772bc9d1a1771f44278f0c47b50", null ],
+    [ "PollWriteInProgressRegister", "dd/da3/class_memory_controller_s_p_i.html#a463f4a8677085ee91bf3d3931db1ce43", null ],
+    [ "PrintStatusRegister", "dd/da3/class_memory_controller_s_p_i.html#a14cf2604862bba68d203e68c2d6de6c6", null ],
+    [ "Read16BitWord", "dd/da3/class_memory_controller_s_p_i.html#adc11d62862f63e1537c7c5154dc26d94", null ],
+    [ "Read8BitWord", "dd/da3/class_memory_controller_s_p_i.html#a2120ff0b7867d6c3920b34be066e18be", null ],
+    [ "ReadStatusRegister", "dd/da3/class_memory_controller_s_p_i.html#a6242011bafbd5ea0feb3fb673f9b6454", null ],
+    [ "Reset_WriteEnableLatch", "dd/da3/class_memory_controller_s_p_i.html#a329514be91d08a482455c6dd62b1d22f", null ],
+    [ "ResumeFromPowerDown", "dd/da3/class_memory_controller_s_p_i.html#aace6d8e0d103c1b5b5a50c7a2680c1e5", null ],
+    [ "SendSPICommand", "dd/da3/class_memory_controller_s_p_i.html#a9dae74c05834c7ae02a1b3aec562950e", null ],
+    [ "SetPowerDown", "dd/da3/class_memory_controller_s_p_i.html#aace757175568203efa8bc27349893545", null ],
+    [ "SetSleepMode", "dd/da3/class_memory_controller_s_p_i.html#ae5739dc16d5479293666229ab0d42bc9", null ],
+    [ "SetUltraDeepPowerDown", "dd/da3/class_memory_controller_s_p_i.html#a2387d5c5833a3409a4119c98919591cb", null ],
+    [ "SetWriteEnableLatch", "dd/da3/class_memory_controller_s_p_i.html#ab0f6c8c5bcc2008273c5d091a12ad692", null ],
+    [ "StatusRegisterToUint8", "dd/da3/class_memory_controller_s_p_i.html#a4c771bd1e3febc3cb370b56d0f2e305b", null ],
+    [ "Uint8ToStatusRegister", "dd/da3/class_memory_controller_s_p_i.html#ae25cf95da193d9265efce75b410ca0ab", null ],
+    [ "Write16BitWord", "dd/da3/class_memory_controller_s_p_i.html#a22b1cfa2e233514fca95b51168eb8ecf", null ],
+    [ "Write8BitWord", "dd/da3/class_memory_controller_s_p_i.html#a25300356ec5ef668228eb273476ed21d", null ],
+    [ "WriteStatusRegister", "dd/da3/class_memory_controller_s_p_i.html#a1e48bf04ac018885af7f7f6fc0a5e506", null ],
+    [ "m_SPIWrapper", "dd/da3/class_memory_controller_s_p_i.html#a6dc03a47555b53ee54ba55ad6e07716e", null ]
+];
